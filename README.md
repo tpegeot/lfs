@@ -1,1 +1,4 @@
-# lfs
+# Linux From Scratch notes
+
+
+ 
